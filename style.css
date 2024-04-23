@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    background-color: #040404;
+    background-size:auto;
+}
+
+
+
+.nav{
+    align-items: center;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weigh;
+    font-style: bold;
+    display: inline-block;
+    margin: 5px;
+    margin-top: 3px;
+    color: #ECECEC;
+}
+
+#teamcherry{
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+
+.silksong{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    place-items: center;
+    margin-top: 80px;
+}
+
+
+.image02{
+    background-size: cover;
+}  
+
+    
+
+
+
+
+
+
+
